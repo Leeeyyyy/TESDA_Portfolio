@@ -79,13 +79,6 @@ As a student currently taking Java NC III training, my goals are:
 
 Currently learning:
 
-- Java Fundamentals
-- Variables and Data Types
-- Basic Syntax
-- Conditional Statements
-- Loops
-- Object-Oriented Programming concepts
-
 More content and activities will be added as training progresses.
 
 ---
